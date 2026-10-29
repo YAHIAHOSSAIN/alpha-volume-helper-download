@@ -3,10 +3,10 @@
 Binance Alpha-র জন্য Chrome এক্সটেনশন।
 
 ## ⬇ সর্বশেষ ভার্সন
-**ভার্সন 6.0.0 — [alpha-volume-helper.zip ডাউনলোড করো](https://github.com/YAHIAHOSSAIN/alpha-volume-helper-download/raw/main/alpha-volume-helper.zip)**
+**ভার্সন 6.0.1 — [alpha-volume-helper.zip ডাউনলোড করো](https://github.com/YAHIAHOSSAIN/alpha-volume-helper-download/raw/main/alpha-volume-helper.zip)**
 
-### কী নতুন (6.0.0)
-- পুরো মেকার মোড (মেকার Buy, পরীক্ষামূলক) · 🤖 পয়েন্ট অটোপাইলট · 🔧 সবার জন্য বাটন (admin পাঠায়) · 📏 সেরা ট্রেড সাইজ খোঁজা · 📱 Telegram Mini App
+### কী নতুন (6.0.1)
+- অটোপাইলট বাদ · 🔄 সর্বশেষ বাটনের তথ্য আনো — এখন প্রতিবার ফল লগে দেখায় (এসেছে/নেই/সমস্যা, কখন পাঠানো) · সার্ভার: /setup ছাড়াই নতুন টেবিল নিজে বানায় (Mini App-এর 'no such table' ঠিক)
 
 ## 🧩 ইনস্টল (Chrome)
 1. zip নামিয়ে Extract করো (একটা `alpha-volume-helper` ফোল্ডার হবে)।
