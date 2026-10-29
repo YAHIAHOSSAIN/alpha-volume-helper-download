@@ -3,10 +3,10 @@
 Binance Alpha-র জন্য Chrome এক্সটেনশন।
 
 ## ⬇ সর্বশেষ ভার্সন
-**ভার্সন 6.2.0 — [alpha-volume-helper.zip ডাউনলোড করো](https://github.com/YAHIAHOSSAIN/alpha-volume-helper-download/raw/main/alpha-volume-helper.zip)**
+**ভার্সন 6.2.1 — [alpha-volume-helper.zip ডাউনলোড করো](https://github.com/YAHIAHOSSAIN/alpha-volume-helper-download/raw/main/alpha-volume-helper.zip)**
 
-### কী নতুন (6.2.0)
-- সেটিংস থেকে পুরনো Telegram অপশন বাদ (উপরের ✈ দিয়ে যুক্ত), হেডারে username আর শিরোনাম আলাদা, মেকার Buy / রিলোডে আবার চালু / সেরা সাইজ / সস্তা টোকেন বাদ, এয়ারড্রপ অ্যালার্ট → 📰 Alpha News (/news), Gemini আর পুরনো কোড পরিষ্কার
+### কী নতুন (6.2.1)
+- নতুন ভার্সনের খবর Telegram-এ: যুক্ত হওয়ার সাথে সাথেই পাঠায়, দুইবার 🆕 ঠিক
 
 ## 🧩 ইনস্টল (Chrome)
 1. zip নামিয়ে Extract করো (একটা `alpha-volume-helper` ফোল্ডার হবে)।
