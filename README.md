@@ -3,10 +3,10 @@
 Binance Alpha-র জন্য Chrome এক্সটেনশন।
 
 ## ⬇ সর্বশেষ ভার্সন
-**ভার্সন 6.5.1 — [alpha-volume-helper.zip ডাউনলোড করো](https://github.com/YAHIAHOSSAIN/alpha-volume-helper-download/raw/main/alpha-volume-helper.zip)**
+**ভার্সন 6.6.0 — [alpha-volume-helper.zip ডাউনলোড করো](https://github.com/YAHIAHOSSAIN/alpha-volume-helper-download/raw/main/alpha-volume-helper.zip)**
 
-### কী নতুন (6.5.1)
-- ভার্সন নম্বর ঠিক করা (6.5.0-এর zip-এ ভুল করে 6.4.0 লেখা ছিল) — বাকি সব 6.5.0-এর মতো
+### কী নতুন (6.6.0)
+- 🤝 সবার সাথে ভাগ: 🩺 টোকেনের স্বাস্থ্য (/tokens), 🧠 একসাথে শেখা মডেল (শুধু দেখে শেখে), ⇄ একই টোকেনে AI উত্তর ভাগ · /aistat-এ 'AI ছাড়া' তুলনা
 
 ## 🧩 ইনস্টল (Chrome)
 1. zip নামিয়ে Extract করো (একটা `alpha-volume-helper` ফোল্ডার হবে)।
